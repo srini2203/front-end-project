@@ -1,0 +1,18 @@
+* {
+    margin:0;
+    size:0;
+    padding:box;
+}
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.wrapper{
+    border:2px;
+    width:960px;
+    height:540px;
+    position:absolute;
+    top:50%;
+    bottom:50%;
+    transform:translate(-50%,-50%);
+    overflow:hidden
+}
